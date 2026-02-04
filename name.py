@@ -24,3 +24,14 @@ time = float(input("Enter time period in years:"))
 interest = (principal * rate * time) / 100
 # Display calculated interest
 print(f"Simple interest is:{interest}")
+
+
+# Task: Create a program to calculate area of rectangle.
+
+# Prompt user to enter rectangle length
+length = float(input("Enter the length of the rectangle:"))
+# Prompt user to enter rectangle width
+width = float(input("Enter width of rectangle"))
+# Calculate the area using formula: length times width
+
+# Display calculated area
