@@ -33,5 +33,6 @@ length = float(input("Enter the length of the rectangle:"))
 # Prompt user to enter rectangle width
 width = float(input("Enter width of rectangle"))
 # Calculate the area using formula: length times width
-
+area = length * width
 # Display calculated area
+print(f"The area of the rectangle is: {area}")
